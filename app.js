@@ -32,7 +32,6 @@ const productos = [
     }
 ];
 
-// Función para cargar los productos en la tabla
 window.onload = function() {
     const tableBody = document.querySelector("#productos-table tbody");
 
